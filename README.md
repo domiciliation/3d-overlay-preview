@@ -51,16 +51,6 @@ It is designed for fast development of **real-time 3D overlays, debugging tools,
 
 ---
 
-## Dependencies
-
-| Library     | Purpose                          |
-| ----------- | -------------------------------- |
-| Dear ImGui  | UI system                        |
-| DirectXMath | Math / vectors / matrices        |
-| Win32 API   | Window creation + input handling |
-
----
-
 ## Use Cases
 
 | Area      | Usage                                      |
